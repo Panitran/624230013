@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.title('การทดสอบเขียนเว็บด้วย Python')
-st.header('ผศ.ดร.ไก้รุ่ง เฮงพระพรหม')
-st.subheader('สาขาวิชาวิทยาการข้อมูล')
+st.header('ปณิธาน คุณาทรพิพัฒน์')
+st.subheader('สาขาวิชาเทคโนโลยีสารสนเทศ')
 st.markdown("----")
 
 col1, col2 = st.columns(2)
